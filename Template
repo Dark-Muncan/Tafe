@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+  <head>
+    <title>This is a Template html File</title>
+  </head>
+  
+  <body>
+    <h1>
+      This is a Template File for my html scripting
+    </h1>
+    
+    <p>This is where you put information!</p>
+  </body>
+</html>
